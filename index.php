@@ -1,7 +1,7 @@
 <?php
 
 // Show all information, defaults to INFO_ALL
-phpinfo();
+1phpinfo();
 
 // Show just the module information.
 // phpinfo(8) yields identical results.
