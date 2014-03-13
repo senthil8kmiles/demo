@@ -1,3 +1,1 @@
-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-kkkkkkkkkkkkkkkkkkkkkkkkkkkkkk
-SSSSSSSSSSSSSSSSSSSSSSSSSSSSS
+SSSSSSSSSS
